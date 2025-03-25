@@ -1,0 +1,16 @@
+ID;Producto;Precio
+1;Producto A;100
+2;Producto B;150
+3;Producto C;200
+4;Producto D;250
+5;Producto E;300
+6;Producto F;120
+7;Producto G;180
+8;Producto H;220
+9;Producto I;260
+10;Producto J;310
+11;Producto K;130
+12;Producto L;170
+13;Producto M;230
+14;Producto N;280
+15;Producto O;350
